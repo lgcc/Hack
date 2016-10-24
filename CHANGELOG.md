@@ -1,3 +1,187 @@
+# Version 2.020
+
+- divided the vertical stroke in the pipe glyph (U+007C), italic and bold italic sets
+- modified U+007C hints in TrueType builds at 6, 7, 10, 11, 12, 13, 14 ppem italic set
+- modified U+007C hints in TrueType builds at 6, 7, 10, 14 ppem bold italic set
+- modified slant angle and stroke length (U+005C), italic and bold italic sets
+- centered U+007C and U+005C, all sets
+- modified zero (U+0030) oval fill hints in regular set
+- added Powerline glyphs to the bold, italic, and bold italic sets
+- U+2502 upper terminal to 1950, lower terminal to -530, all sets
+- U+2503 upper terminal to 1950, lower terminal to -530, all sets
+- U+250C lower terminal to -530, all sets
+- U+250D lower terminal to -530, all sets
+- U+250E lower terminal to -530, all sets
+- U+250F lower terminal to -530, all sets
+- U+2510 lower terminal to -530, all sets
+- U+2511 lower terminal to -530, all sets
+- U+2512 lower terminal to -530, all sets
+- U+2513 lower terminal to -530, all sets
+- U+2514 upper terminal to 1950, all sets
+- U+2515 upper terminal to 1950, all sets
+- U+2516 upper terminal to 1950, all sets
+- U+2517 upper terminal to 1950, all sets
+- U+2518 upper terminal to 1950, all sets
+- U+2519 upper terminal to 1950, all sets
+- U+251A upper terminal to 1950, all sets
+- U+251B upper terminal to 1950, all sets
+- U+251C upper terminal to 1950, lower terminal to -530, all sets
+- U+251D upper terminal to 1950, lower terminal to -530, all sets
+- U+251E upper terminal to 1950, lower terminal to -530, all sets
+- U+251F upper terminal to 1950, lower terminal to -530, all sets
+- U+2520 upper terminal to 1950, lower terminal to -530, all sets
+- U+2521 upper terminal to 1950, lower terminal to -530, all sets
+- U+2522 upper terminal to 1950, lower terminal to -530, all sets
+- U+2523 upper terminal to 1950, lower terminal to -530, all sets
+- U+2524 upper terminal to 1950, lower terminal to -530, all sets
+- U+2525 upper terminal to 1950, lower terminal to -530, all sets
+- U+2526 upper terminal to 1950, lower terminal to -530, all sets
+- U+2527 upper terminal to 1950, lower terminal to -530, all sets
+- U+2528 upper terminal to 1950, lower terminal to -530, all sets
+- U+2529 upper terminal to 1950, lower terminal to -530, all sets
+- U+252A upper terminal to 1950, lower terminal to -530, all sets
+- U+252B upper terminal to 1950, lower terminal to -530, all sets
+- U+252C lower terminal to -530, all sets
+- U+252D lower terminal to -530, all sets
+- U+252E lower terminal to -530, all sets
+- U+252F lower terminal to -530, all sets
+- U+2530 lower terminal to -530, all sets
+- U+2531 lower terminal to -530, all sets
+- U+2532 lower terminal to -530, all sets
+- U+2533 lower terminal to -530, all sets
+- U+2534 upper terminal to 1950, all sets
+- U+2535 upper terminal to 1950, all sets
+- U+2536 upper terminal to 1950, all sets
+- U+2537 upper terminal to 1950, all sets
+- U+2538 upper terminal to 1950, all sets
+- U+2539 upper terminal to 1950, all sets
+- U+253A upper terminal to 1950, all sets
+- U+253B upper terminal to 1950, all sets
+- U+252C upper terminal to 1950, lower terminal to -530, all sets
+- U+252D upper terminal to 1950, lower terminal to -530, all sets
+- U+253E upper terminal to 1950, lower terminal to -530, all sets
+- U+253F upper terminal to 1950, lower terminal to -530, all sets
+- U+2540 upper terminal to 1950, lower terminal to -530, all sets
+- U+2541 upper terminal to 1950, lower terminal to -530, all sets
+- U+2542 upper terminal to 1950, lower terminal to -530, all sets
+- U+2543 upper terminal to 1950, lower terminal to -530, all sets
+- U+2544 upper terminal to 1950, lower terminal to -530, all sets
+- U+2545 upper terminal to 1950, lower terminal to -530, all sets
+- U+2546 upper terminal to 1950, lower terminal to -530, all sets
+- U+2547 upper terminal to 1950, lower terminal to -530, all sets
+- U+2548 upper terminal to 1950, lower terminal to -530, all sets
+- U+2549 upper terminal to 1950, lower terminal to -530, all sets
+- U+254A upper terminal to 1950, lower terminal to -530, all sets
+- U+254B upper terminal to 1950, lower terminal to -530, all sets
+- U+2551 upper terminal to 1950, lower terminal to -530, all sets
+- U+2552 lower terminal to -530, all sets
+- U+2553 lower terminals to -530, all sets
+- U+2554 lower terminals to -530, all sets
+- U+2555 lower terminal to -530, all sets
+- U+2556 lower terminals to -530, all sets
+- U+2557 lower terminals to -530, all sets
+- U+2558 upper terminal to 1950, all sets
+- U+2558 upper terminals to 1950, all sets
+- U+2559 upper terminals to 1950, all sets
+- U+255A upper terminals to 1950, all sets
+- U+255B upper terminal to 1950, all sets
+- U+255C upper terminals to 1950, all sets
+- U+255D upper terminals to 1950, all sets
+- U+255E upper terminal to 1950, lower terminal to -530, all sets
+- U+255F upper terminals to 1950, lower terminals to -530, all sets
+- U+2560 upper terminals to 1950, lower terminals to -530, all sets
+- U+2561 upper terminal to 1950, lower terminal to -530, all sets
+- U+2562 upper terminals to 1950, lower terminals to -530, all sets
+- U+2563 upper terminals to 1950, lower terminals to -530, all sets
+- U+2564 lower terminal to -530, all sets
+- U+2565 lower terminals to -530, all sets
+- U+2566 lower terminals to -530, all sets
+- U+2567 upper terminal to 1950, all sets
+- U+2568 upper terminals to 1950, all sets
+- U+2569 upper terminals to 1950, all sets
+- U+256A upper terminal to 1950, lower terminal to -530, all sets
+- U+256B upper terminals to 1950, lower terminals to -530, all sets
+- U+256C upper terminals to 1950, lower terminals to -530, all sets
+- U+256D lower terminal to -530, all sets
+- U+256E lower terminal to -530, all sets
+- U+256F upper terminal to 1950, all sets
+- U+2570 upper terminal to 1950, all sets
+- U+2571 adjusted horizontal position and length of strokes
+- U+2572 adjusted horizontal position and length of strokes
+- U+2573 adjusted horizontal position and length of strokes
+- U+2575 upper terminal to 1950, all sets
+- U+2577 lower terminal to -530, all sets
+- U+2578 horizontal alignment of superior margin of the stroke (1 unit adjustment)
+- U+2579 upper terminal to 1950, all sets
+- U+257B lower terminal to -530, all sets
+- U+257D upper terminal to 1950, lower terminal to -530, all sets
+- U+257F upper terminal to 1950, lower terminal to -530, all sets
+- updated OpenType name table field 1 0 0
+- updated OpenType name table field 3 1 1033
+- new [Windows installer](https://github.com/source-foundry/Hack-windows-installer)
+- added line spacing adjustment shell scripts
+- added font-tables.py OpenType table reporting script
+- updated dev-versioner.py OpenType table versioning script to support UTF16 big endian encoding of nameID=5, platformID=3 name table
+
+
+# Version 2.019 (release build)
+
+ttf, otf, webfont builds
+
+- removed SVG from webfont releases
+- Corrected U+2588 glyph shape in regular set (had inappropriately small width and height)
+- decreased width U+2580 all sets
+- decreased width U+2581 all sets
+- decreased width U+2582 all sets
+- decreased width U+2583 all sets
+- decreased width U+2584 all sets
+- decreased width U+2585 all sets
+- decreased width U+2586 all sets
+- decreased width U+2857 all sets
+- adjusted left sidebearing U+2589 all sets
+- adjusted left sidebearing U+258A all sets
+- adjusted left sidebearing U+258B all sets
+- adjusted left sidebearing U+258C all sets
+- adjusted left sidebearing U+258D all sets
+- adjusted left sidebearing U+258E all sets
+- adjusted left sidebearing U+258F all sets
+- adjusted right sidebearing U+2590 all sets
+- decreased width of U+2594 all sets
+- adjusted right sidebearing U+2595 all sets
+- adjusted left sidebearing U+2596 all sets
+- adjusted right sidebearing U+2597 all sets
+- adjusted left sidebearing U+2598 all sets
+- decreased width of U+2599 all sets
+- decreased width of U+259A all sets
+- decreased width of U+259B all sets
+- decreased width of U+259C all sets
+- adjusted right sidebearing U+259D all sets
+- decreased width of U+259E all sets
+- decreased width of U+259F all sets
+- increased upper terminal position to 1950 units U+2580 all sets
+- increased upper terminal position to 1950 units U+2588 all sets
+- increased upper terminal position to 1950 units U+2589 all sets
+- increased upper terminal position to 1950 units U+258A all sets
+- increased upper terminal position to 1950 units U+258B all sets
+- increased upper terminal position to 1950 units U+258C all sets
+- increased upper terminal position to 1950 units U+258D all sets
+- increased upper terminal position to 1950 units U+258E all sets
+- increased upper terminal position to 1950 units U+258F all sets
+- increased upper terminal position to 1950 units U+2590 all sets
+- increased upper terminal position to 1950 units U+2594 all sets
+- increased upper terminal position to 1950 units U+2595 all sets
+- increased upper terminal position to 1950 units U+2598 all sets
+- increased upper terminal position to 1950 units U+2599 all sets
+- increased upper terminal position to 1950 units U+259A all sets
+- increased upper terminal position to 1950 units U+259B all sets
+- increased upper terminal position to 1950 units U+259C all sets
+- increased upper terminal position to 1950 units U+259D all sets
+- increased upper terminal position to 1950 units U+259E all sets
+- increased upper terminal position to 1950 units U+259F all sets
+- reverted Cyrillic lower case es glyph (U+0441) to Latin lower case c shape
+- reverted Cyrillic upper case es glyph (U+0421) to Latin upper case C shape
+
+
 # Version 2.018 (release build)
 
 ttf, otf, webfont builds
